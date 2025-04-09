@@ -11,4 +11,35 @@ p{
 a{
     color: aqua;
 }
+  
+h1 {
+    text-align: center;
+    color: white;
+  }
+  
+table {
+    margin: auto;
+    background-color: rgb(2, 2, 2);
+    color: black;
+    border: 2px solid black;
+  }
+  
+th, td {
+    border: 1px solid rgb(255, 249, 249);
+    padding: 10px;
+    text-align: left;
+    color: white;
+  }
 
+caption{
+    color: azure;
+}
+
+.circle-image {
+    border-radius: 50%;
+  }
+
+.bjj-pic{
+    border-radius: 8px;
+    padding-left: 10%;
+}
